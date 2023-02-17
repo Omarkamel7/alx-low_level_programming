@@ -1,9 +1,9 @@
 # include <stdio.h>
-int main(void)
+int main(voidu)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
 /**
- *this code have main function 
+ *this code has main function
  */
 }
