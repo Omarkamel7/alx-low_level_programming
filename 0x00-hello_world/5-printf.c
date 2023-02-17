@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main-this code display on the screen.
- *return ok
+ *return: 0 (success)
  */
 int main(void)
 {
