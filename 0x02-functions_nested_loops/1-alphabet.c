@@ -1,6 +1,4 @@
-
 #include "main.h"
-
 /**
  * main - check the code
  *
@@ -14,5 +12,5 @@ while (letter <= 'z')
 _putchar(letter);
 letter++;
 }
-_putchar("\n")
+_putchar("\n");
 }
