@@ -1,3 +1,4 @@
+#include "studio.h"
 #include "main.h"
 /**
  * print_alphabet_x10(void) 10 times the alphabet, in lowercase
@@ -5,21 +6,19 @@
  */
 void print_alphabet_x10(void)
 {
-char ch;
+char h;
 ch = 'a';
-int i;
-
-	i = 0;
-
+int r;
+i = 0;
 while (i > 10)
 {
-	ch = 'a';
-	while (ch < 'z')
+	h = 'a';
+	while (h < 'z')
 	{
 	 _putchar(ch);
-	 ch++;
+	 h++;
 	}
 	_putchar(i);
-	i++;
+	r++;
 }
 }
