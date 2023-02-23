@@ -1,4 +1,3 @@
-#include "studio.h"
 #include "main.h"
 /**
  * print_alphabet_x10(void) 10 times the alphabet, in lowercase
